@@ -39,3 +39,8 @@ and user or super user can creat new reviews.
 if you login as a normal user, you only allow to search and add a new reviews
 
 as in the Nomral user Gui. 
+
+
+
+
+[IMG]http://i57.tinypic.com/jztct3.jpg[/IMG]
