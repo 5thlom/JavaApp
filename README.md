@@ -43,4 +43,11 @@ as in the Nomral user Gui.
 
 
 
-![Alt text](http://i57.tinypic.com/jztct3.jpg "addAccount")
+![Alt text](http://i57.tinypic.com/jztct3.jpg "addAccountGUI")
+
+
+![Alt text](http://i58.tinypic.com/205pqap.jpg "LoginGUI")
+
+![Alt text](http://i60.tinypic.com/2ldhu7k.jpg "UserGUI")
+
+![Alt text](http://i61.tinypic.com/2vwtdab.jpg "AdminGUI")
