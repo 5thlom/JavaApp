@@ -43,4 +43,4 @@ as in the Nomral user Gui.
 
 
 
-[IMG]http://i57.tinypic.com/jztct3.jpg[/IMG]
+![Alt text]http://i57.tinypic.com/jztct3.jpg
